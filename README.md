@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,csharp,dotnet,azure,git,github,mysql,sqlserver,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,csharp,dotnet,azure,git,github,mysql,docker" />
 </p>
 
 <!-- Fun coding GIF -->
@@ -50,20 +50,35 @@
 
 ### 📬 Find me around the web
 <p align="center">
+  <!-- LinkedIn (skillicons) -->
   <a href="https://www.linkedin.com/in/giang-tri%E1%BB%87u-a29127273/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="linkedin"/>
   </a>
+  <!-- GitHub (skillicons) -->
   <a href="https://github.com/trieuhoanggiangww" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="github" />
+    <img src="https://skillicons.dev/icons?i=github" height="44" alt="github"/>
   </a>
+  <!-- Instagram (skillicons) -->
   <a href="https://www.instagram.com/_g0dd4mnitt/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="44" alt="instagram"/>
   </a>
+  <!-- Facebook (simple‑icons + nền tròn) -->
   <a href="https://www.facebook.com/dungkhumngu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="42" alt="facebook" />
+    <img
+      src="https://cdn.simpleicons.org/facebook/FFFFFF"
+      height="40"
+      style="background:#1877F2;border-radius:50%;padding:4px"
+      alt="facebook"
+    />
   </a>
+  <!-- Gmail (simple‑icons + nền tròn) -->
   <a href="mailto:trieuhoanggiangww@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="gmail" />
+    <img
+      src="https://cdn.simpleicons.org/gmail/FFFFFF"
+      height="40"
+      style="background:#D14836;border-radius:50%;padding:4px"
+      alt="gmail"
+    />
   </a>
 </p>
 
