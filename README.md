@@ -27,7 +27,7 @@
 
 <!-- Fun coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="coding-cat" />
+  <img src="https://media.tenor.com/3wFtLJyFgJQAAAAM/cat-meme.gif" width="400" alt="coding-cat" />
 </p>
 
 ---
@@ -51,19 +51,19 @@
 ### 📬 Find me around the web
 <p align="center">
   <a href="https://www.linkedin.com/in/giang-tri%E1%BB%87u-a29127273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="linkedin" />
   </a>
   <a href="https://github.com/trieuhoanggiangww" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="github" />
   </a>
   <a href="https://www.instagram.com/_g0dd4mnitt/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="instagram" />
   </a>
   <a href="https://www.facebook.com/dungkhumngu/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="42" alt="facebook" />
   </a>
   <a href="mailto:trieuhoanggiangww@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="gmail" />
   </a>
 </p>
 
