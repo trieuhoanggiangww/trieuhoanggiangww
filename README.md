@@ -25,6 +25,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,csharp,dotnet,azure,git,github,mysql,sqlserver,docker" />
 </p>
 
+<!-- Fun coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="coding-cat" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -43,13 +48,22 @@
 
 ---
 
-### 📬 Find me around the web
+### 📬 Find me around the web
 <p align="center">
   <a href="https://www.linkedin.com/in/giang-tri%E1%BB%87u-a29127273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/trieuhoanggiangww" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_g0dd4mnitt/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/dungkhumngu/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:trieuhoanggiangww@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
