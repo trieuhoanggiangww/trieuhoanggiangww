@@ -50,37 +50,28 @@
 
 ### 📬 Find me around the web
 <p align="center">
-  <!-- LinkedIn (skillicons) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/giang-tri%E1%BB%87u-a29127273/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="linkedin"/>
   </a>
-  <!-- GitHub (skillicons) -->
+  <!-- GitHub -->
   <a href="https://github.com/trieuhoanggiangww" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="44" alt="github"/>
   </a>
-  <!-- Instagram (skillicons) -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/_g0dd4mnitt/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="44" alt="instagram"/>
   </a>
-  <!-- Facebook (simple‑icons + nền tròn) -->
+  <!-- Facebook (SVG có sẵn màu xanh) -->
   <a href="https://www.facebook.com/dungkhumngu/" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/facebook/FFFFFF"
-      height="40"
-      style="background:#1877F2;border-radius:50%;padding:4px"
-      alt="facebook"
-    />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="44" alt="facebook"/>
   </a>
-  <!-- Gmail (simple‑icons + nền tròn) -->
+  <!-- Gmail (SVG có sẵn màu đỏ) -->
   <a href="mailto:trieuhoanggiangww@gmail.com">
-    <img
-      src="https://cdn.simpleicons.org/gmail/FFFFFF"
-      height="40"
-      style="background:#D14836;border-radius:50%;padding:4px"
-      alt="gmail"
-    />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="44" alt="gmail"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trieuhoanggiangww&style=flat-square&color=F75C7E" alt="visitors"/>
